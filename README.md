@@ -1,6 +1,6 @@
 Clone the project first then run "npm install" to install all the dependancies.
 
-Type "npm run server" to run server. I have used MongoDB atlas for DB. Also, I have used Gravatar for user avatar.
+Type "npm run server" to run server. I have used MongoDB atlas for DB and used bcrypt for password encryption. Also, I have used Gravatar for user avatar.
 
 API URLs:
 1.  Registering User:
